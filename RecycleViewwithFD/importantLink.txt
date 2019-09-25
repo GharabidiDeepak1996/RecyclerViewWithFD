@@ -1,0 +1,16 @@
+https://www.simplifiedcoding.net/android-recyclerview-cardview-tutorial/
+
+
+https://www.simplifiedcoding.net/firebase-storage-example/#
+
+
+https://codinginflow.com/tutorials/android/firebase-storage-upload-and-retrieve-images/part-6-retrieve-images
+
+
+
+https://www.youtube.com/watch?v=g-8wZ1J2QiA
+
+
+
+note:
+modelclass of string name should be same has par database string or objects
